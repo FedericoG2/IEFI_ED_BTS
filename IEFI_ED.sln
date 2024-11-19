@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEFI_ED", "IEFI_ED\IEFI_ED.csproj", "{ED93BD7D-C928-4289-97C2-125AF08481CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED93BD7D-C928-4289-97C2-125AF08481CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED93BD7D-C928-4289-97C2-125AF08481CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED93BD7D-C928-4289-97C2-125AF08481CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED93BD7D-C928-4289-97C2-125AF08481CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB7D25A3-3716-49A3-8C45-2ED058AA08D3}
+	EndGlobalSection
+EndGlobal
